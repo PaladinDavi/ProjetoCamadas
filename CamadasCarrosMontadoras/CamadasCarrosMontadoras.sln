@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcessaDadosSqlServer", "AcessaDadosSqlServer\AcessaDadosSqlServer.csproj", "{7EB7932D-25C3-423B-9FE9-254A487805FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjetosTranferencia", "ObjetosTranferencia\ObjetosTranferencia.csproj", "{75011D5E-D771-4052-B7BD-06FADC4FF0AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocios", "Negocios\Negocios.csproj", "{A046EDCE-BD0B-41E3-A9FA-C17E925E686E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EB7932D-25C3-423B-9FE9-254A487805FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB7932D-25C3-423B-9FE9-254A487805FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB7932D-25C3-423B-9FE9-254A487805FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB7932D-25C3-423B-9FE9-254A487805FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75011D5E-D771-4052-B7BD-06FADC4FF0AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75011D5E-D771-4052-B7BD-06FADC4FF0AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75011D5E-D771-4052-B7BD-06FADC4FF0AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75011D5E-D771-4052-B7BD-06FADC4FF0AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A046EDCE-BD0B-41E3-A9FA-C17E925E686E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A046EDCE-BD0B-41E3-A9FA-C17E925E686E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A046EDCE-BD0B-41E3-A9FA-C17E925E686E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A046EDCE-BD0B-41E3-A9FA-C17E925E686E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+c:\users\davi\documents\visual studio 2015\Projects\CamadasCarrosMontadoras\AcessaDadosSqlServer\bin\Debug\AcessaDadosSqlServer.dll.config
+c:\users\davi\documents\visual studio 2015\Projects\CamadasCarrosMontadoras\AcessaDadosSqlServer\bin\Debug\AcessaDadosSqlServer.dll
+c:\users\davi\documents\visual studio 2015\Projects\CamadasCarrosMontadoras\AcessaDadosSqlServer\bin\Debug\AcessaDadosSqlServer.pdb
+c:\users\davi\documents\visual studio 2015\Projects\CamadasCarrosMontadoras\AcessaDadosSqlServer\obj\Debug\AcessaDadosSqlServer.csprojResolveAssemblyReference.cache
+c:\users\davi\documents\visual studio 2015\Projects\CamadasCarrosMontadoras\AcessaDadosSqlServer\obj\Debug\AcessaDadosSqlServer.dll
+c:\users\davi\documents\visual studio 2015\Projects\CamadasCarrosMontadoras\AcessaDadosSqlServer\obj\Debug\AcessaDadosSqlServer.pdb
